@@ -9,6 +9,3 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MerlotSVK&layout=compact"
   />
-  
-🔭 I’m currently working on drug system
-
